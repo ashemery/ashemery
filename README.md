@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ali Hadi and I work as a Security Researcher interested in DFIR, Malware, and Offsec. I'm also an author and speaker. 
+My name is Ali Hadi and I work as a Security Researcher interested in DFIR, Malware, and Offensive Security. I'm also an author and speaker.
 
 <!--
 **ashemery/ashemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
