@@ -2,6 +2,7 @@
 My name is Ali Hadi and I work as a Professor and Security Researcher, interested in DFIR and Offensive Security. I'm also an author and speaker.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashemery&count_private=false&show_icons=true&hide=contribs&line_height=25&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashemery&langs_count=8&theme=dark&hide=html)
 
 
