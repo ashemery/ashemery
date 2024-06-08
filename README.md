@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ali Hadi and I work as a Professor and Security Researcher, interested in DFIR and Offensive Security. I'm also an author and speaker.
+My name is Ali Hadi and I work as a Research Director and Professor, interested in DFIR and Adversary Simulation. I'm also an author and speaker.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashemery&count_private=false&show_icons=true&hide=contribs&line_height=25&theme=dark)
 
